@@ -1554,7 +1554,10 @@ searchSites = {
     1368: ('Killergram', 'https://killergram.com', '/episodes.asp?page=episodes&id='),
     1369: ('Killergram Platinum', 'https://killergram.com', '/platinum.asp?page=platinum&id='),
     1370: ('Data18 Movie Scene', 'https://data18.com', '/sys/search.php?index=&key='),
-}
+    1371: ('PervTherapy', 'http://pervtherapy.com', '/movies'),
+    1372: ('HijabHookup', 'http://hijabhookup.com', '/movies'),
+    1373: ('KissingGirls', 'https://www.teamskeet.com', '/movies'),
+    }
 
 abbreviations = (
     ('^18og ', '18OnlyGirls '),
